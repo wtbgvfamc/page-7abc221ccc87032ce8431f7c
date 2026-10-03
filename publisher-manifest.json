@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "bcaf257fbbcd2a76fed8db87",
+  "owner": "wtbgvfamc",
+  "repo": "page-7abc221ccc87032ce8431f7c",
+  "title": "蓝莲花",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7abc221ccc87032ce8431f7c",
+      "a": "蓝莲花",
+      "b": "",
+      "entity": "蓝莲花",
+      "brand": "蓝莲花",
+      "separator": "",
+      "path": "index.html",
+      "hash": "cba092d51f70abacd6e40190a0fd5070a63d7c7929fc36aed1d78400bc560c49",
+      "content": {
+        "keyword1": "蓝莲花",
+        "keyword2": "",
+        "primary_entity": "蓝莲花",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "蓝莲花提供专业机场订阅与VPN梯子服务，涵盖高速节点、流媒体解锁、游戏IPLC加速及多端客户端下载。访问蓝莲花官网了解套餐、获取官方下载与详细使用教程。",
+          "AI_DESCRIPTION": "蓝莲花提供专业机场订阅与VPN梯子服务，涵盖高速节点、流媒体解锁、游戏IPLC加速及多端客户端下载。访问蓝莲花官网了解套餐、获取官方下载与详细使用教程。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}body{margin:0;font-family:\"PingFang SC\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif;background:#FFF8F4;color:#3A322C;font-size:16px;line-height:1.75;word-wrap:break-word;overflow-wrap:break-word}header,main,footer{max-width:720px;margin:0 auto;padding:1rem}header{padding-top:1.25rem}nav{display:flex;flex-wrap:wrap;gap:0.65rem 1rem;margin:0.85rem 0 0.2rem}nav a{color:#C45C3E;text-decoration:none;font-size:0.95rem;border-bottom:1px solid #F0C9B8}h1{font-size:1.85rem;line-height:1.3;color:#C24B32;margin:0.4rem 0 0.6rem}h2{font-size:1.32rem;color:#B85C38;margin:1.8rem 0 0.7rem;padding-bottom:0.35rem;border-bottom:2px solid #F3CABB}h3{font-size:1.08rem;color:#8A4B32;margin:1.1rem 0 0.4rem}.lead{font-size:1.02rem;color:#4A403A;margin:0 0 1rem}.plan{background:#FFFFFF;border:1px solid #EED4C8;border-radius:10px;padding:1rem 1.05rem;margin:0.9rem 0}.plan.featured{border:2px solid #E07A5F;background:#FFF4EE}.badge{display:inline-block;background:#E07A5F;color:#FFFFFF;font-size:0.72rem;padding:0.12rem 0.45rem;border-radius:4px;margin-left:0.35rem;vertical-align:middle}.price{font-size:1.35rem;color:#C2410C;font-weight:700;margin:0.2rem 0}.annual{font-size:0.92rem;color:#6B5348;margin:0 0 0.5rem}.plan ul{margin:0.3rem 0 0;padding-left:1.2rem}.step{margin:0.85rem 0;padding:0.75rem 0.9rem 0.75rem 1rem;background:#FFFFFF;border-left:4px solid #E07A5F;border-radius:0 8px 8px 0}.step h3{margin-top:0}details{background:#FFFFFF;border:1px solid #EBD0C4;border-radius:8px;margin:0.55rem 0;padding:0.55rem 0.85rem}summary{font-weight:600;color:#A14A32;padding:0.2rem 0}details p{margin:0.45rem 0 0.2rem;color:#4A403A}.list a{color:#C45C3E} .ad{background:#FFF0E6;border-radius:8px;padding:0.85rem 1rem;margin:1.2rem 0;color:#7A4030;text-align:center}footer{border-top:1px solid #EED4C8;margin-top:1.5rem;padding-bottom:2rem;font-size:0.9rem;color:#6B5348}.friends{margin:0.6rem 0 0.2rem}.friends a{color:#C45C3E;margin-right:0.9rem;text-decoration:none}ul.plain{padding-left:1.2rem;margin:0.4rem 0}@media (max-width:480px){h1{font-size:1.55rem}h2{font-size:1.18rem}header,main,footer{padding-left:0.85rem;padding-right:0.85rem}}</style><header><p>蓝莲花官网</p><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a></nav></header><main><h1>蓝莲花</h1><p class=\"lead\">蓝莲花官方网站提供机场订阅、VPN 梯子与网络加速服务，支持多端客户端下载，面向流媒体、游戏与跨境办公场景。</p><section id=\"intro\"><h2>品牌简介</h2><p>蓝莲花是面向个人与团队的网络加速品牌，以机场订阅方式提供可在多款客户端使用的节点资源。服务覆盖亚太与欧美线路，包含普通高速节点与 IPLC 专线，用于稳定访问国际网站、解锁基础及原生流媒体，并对热门游戏做延迟优化。</p><p>访问蓝莲花官网即可查看透明套餐、官方下载说明与操作步骤。基础版适合轻度浏览，旗舰版面向多设备与游戏加速，团队版面向多成员与定制路由。所有套餐均按月流量计费，年付可降低综合成本。</p><p>我们强调可阅读的使用说明，而不是空泛宣传：节点会随线路质量调整，晚高峰以旗舰与团队版的优先带宽更稳。请通过本站公布的客户端导入订阅，避免来路不明的安装包。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>用于观看海外视频平台、音乐与公开课程。基础版覆盖常见站点；旗舰版与团队版强调原生 IP 与全节点解锁能力，4K 播放是否流畅取决于本地带宽与所选节点负载。</p><h3>游戏与实时通信</h3><p>旗舰版起提供 IPLC 游戏加速优化，适合需要更低抖动的国际服对战与语音。实际延迟受运营商出境质量影响，建议在客户端中切换邻近节点对比。</p><h3>办公、学术与多设备</h3><p>远程会议、文献检索、跨境店铺管理等场景可使用长期在线节点。团队版支持更多同时在线设备与企业定制路由，减少共用账号冲突。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为蓝莲花当前公示套餐，流量为每月额度，周期结束重置。设备数为同时在线上限。请按实际需求选择，再进入操作说明完成订阅与客户端配置。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article><div class=\"ad\">广告：蓝莲花旗舰版适合需要 IPLC 游戏加速与原生流媒体的用户，可在官网对比年付优惠后订阅。</div></section><section id=\"guide\"><h2>操作说明</h2><p>按下列纵向步骤即可从蓝莲花官网走到可连接状态。全程不依赖第三方来路，订阅仅在您的用户中心生成。</p><div class=\"step\"><h3>步骤一：确认需求并选择套餐</h3><p>根据设备数量、流量与是否需要 IPLC，在本页选择基础版、旗舰版或团队版。轻度浏览选基础版；多端加上游戏与流媒体选旗舰版；多人共用选团队版。</p></div><div class=\"step\"><h3>步骤二：完成订阅并复制链接</h3><p>在官网用户中心开通对应套餐后，复制专属订阅地址。请整段复制，不要漏掉令牌参数。该链接用于客户端自动拉取节点，请勿公开分享。</p></div><div class=\"step\"><h3>步骤三：下载对应客户端</h3><p>打开本页「客户端下载」章节，按 Windows、macOS、iOS、Android 或 Linux 选择常用软件。蓝莲花推荐 Clash 兼容客户端，便于统一导入机场订阅。</p></div><div class=\"step\"><h3>步骤四：导入订阅并更新节点</h3><p>在客户端中选择添加订阅、粘贴链接并更新。首次使用建议开启系统代理或 TUN 模式，并更新路由规则。若列表为空，检查网络后重试更新。</p></div><div class=\"step\"><h3>步骤五：选择节点连接并验证</h3><p>优先选择延迟较低的地区节点；观看流媒体时选用带原生解锁标记的线路；游戏走 IPLC 分组。连接后访问目标站点确认，再把常用配置保存为配置文件。</p></div></section><section id=\"download\"><h2>客户端下载</h2><p>蓝莲花官网下载说明如下，链接指向本页锚点以便对照教程。请从可信渠道获取安装包，导入本站订阅即可作为加速器使用。</p><h3>桌面端</h3><ul class=\"list\"><li><a href=\"#guide\">Windows</a>：Clash Verge、v2rayN，适合导入通用订阅。</li><li><a href=\"#guide\">macOS</a>：ClashX Meta、Surge，可配合系统代理。</li><li><a href=\"#guide\">Linux</a>：Clash Meta 命令行或图形前端。</li></ul><h3>移动端</h3><ul class=\"list\"><li><a href=\"#guide\">iOS</a>：Shadowrocket、Stash、Quantumult X，需自行准备应用商店账号。</li><li><a href=\"#guide\">Android</a>：Clash Meta for Android、Surfboard。</li></ul><p>导入后如出现证书或分流异常，回到操作说明第四步检查规则与内核版本。旗舰版与团队版工单可协助核对客户端日志。</p></section><section id=\"nodes\"><h2>节点与加速说明</h2><p>蓝莲花节点池包含香港、日本、新加坡、美国及欧洲等方向，普通线路满足网页与视频，IPLC 分组用于对延迟敏感的游戏。旗舰版强调全节点原生流媒体；团队版另有 VIP 高带宽出口与可定制分流。</p><p>网络加速效果与本地宽带、时段、目标站点有关。将客户端测速作为参考，而不是唯一标准。若某一线路拥塞，切换同区域备用节点通常即可恢复。</p></section><section id=\"faq\"><h2>常见问题</h2><p>以下为蓝莲花官网最常被问到的订阅、下载与加速问题，可直接展开阅读。</p><details><summary>蓝莲花是机场订阅还是传统 VPN？</summary><p>蓝莲花采用机场订阅模式：一次开通可在多款客户端中使用同一套节点，协议与分流更灵活。它同时承担 VPN 梯子与网络加速器的角色，适合需要多设备、多场景切换的用户，而不是单一 App 内的固定线路。</p></details><details><summary>如何在官网完成客户端下载并开始使用？</summary><p>先在套餐区选定版本并完成订阅，再于「客户端下载」按系统选择软件，最后把用户中心的订阅链接粘贴到客户端。详细顺序见「操作说明」五个步骤。请只通过蓝莲花官方网站获取说明，避免仿冒下载页。</p></details><details><summary>订阅导入失败或节点列表为空怎么办？</summary><p>确认链接完整、客户端为较新版本，并手动点击更新。可尝试更换 Clash 内核或关闭再开启系统代理。若仍失败，记录报错信息提交工单；旗舰版享有 7x24 优先处理，团队版可联系专属客户经理。</p></details><details><summary>各套餐的流媒体解锁范围有何不同？</summary><p>基础版提供基础流媒体解锁，满足常见视频站点。旗舰版与团队版强调全节点原生解锁，覆盖更多需要住宅或机房原生 IP 的平台。版权与节点状态会变化，播放前请在客户端选择对应解锁分组。</p></details><details><summary>游戏能否走 IPLC？延迟大概怎样？</summary><p>IPLC 专线游戏加速优化包含在旗舰版与团队版中，用于降低国际服抖动。延迟取决于您所在城市的运营商与目标区服，通常明显优于绕行公共线路，但不能承诺固定毫秒数。建议对比同区域普通节点与 IPLC 节点后再固定配置。</p></details><details><summary>流量用尽、设备超限或需要升级如何处理？</summary><p>当月流量用尽后新连接会受限，可等待重置或升级到更高额度。同时在线超过套餐设备数时，请先断开闲置终端。年付价格已在各套餐中标明，适合长期把蓝莲花当作日常网络加速入口的用户。</p></details><details><summary>如何确认自己访问的是蓝莲花官方网站？</summary><p>请核对浏览器地址栏与本页公示的套餐名称、价格及客户端说明是否一致。客服只通过官网工单或团队版客户经理通道处理，不会索要额外远程控制权限。收藏本页锚点导航可减少误入仿冒站点的风险。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer id=\"links\"><p>蓝莲花官网 · 机场订阅与 VPN 梯子网络加速服务</p><div class=\"ad\">广告位：多端加速器与官方下载说明均在本站更新，欢迎对照常见问题自行排查。</div><p class=\"friends\">友情链接 <a href=\"#intro\">品牌简介</a><a href=\"#download\">官方下载</a><a href=\"#guide\">使用教程</a><a href=\"#faq\">帮助中心</a><a href=\"#plans\">套餐说明</a></p><p>网站地图见头部 sitemap 声明。内容仅供了解蓝莲花产品与操作流程，节点与解锁范围以实际连接为准。</p></footer>",
+          "hash": "33172619de18f4eba8d877dc6883f1ae31c697990ad600ea01a895d3171f4678",
+          "seo": {
+            "title": "蓝莲花官网 | VPN梯子网络加速器与机场订阅客户端下载",
+            "keywords": "蓝莲花,蓝莲花官网,蓝莲花机场,蓝莲花VPN,VPN梯子,网络加速,加速器,客户端下载,机场订阅,官方下载",
+            "description": "蓝莲花提供专业机场订阅与VPN梯子服务，涵盖高速节点、流媒体解锁、游戏IPLC加速及多端客户端下载。访问蓝莲花官网了解套餐、获取官方下载与详细使用教程。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "promisess.cn",
+    "host": "p-2761ff54d1.promisess.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ifweb.cn",
+      "url": "https://ifweb.cn/",
+      "label": "蓝莲花",
+      "apex": "ifweb.cn",
+      "kind": null,
+      "identity": "mfjpfmd/page-2d82b4c2013c4e3e6847e4a9"
+    },
+    {
+      "host": "qyrio.cn",
+      "url": "https://qyrio.cn/",
+      "label": "蓝莲花",
+      "apex": "qyrio.cn",
+      "kind": null,
+      "identity": "qeuasaj/page-ad974e448eb011db3aaedad8"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2cb3e9d96d0f64c404d7f3bb5fc2c23565abdf8e21098fad7d002a8b505cb16c",
+    "sitemap.xml": "a56b4731dfb3db62aff22c3d7e2941a48652e66e646cf4befe70cc27fab4f1ad",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2404a36c74ed287196cef7df3e134626f1dd929ce319d86ec62e6a6a3feef7fa",
+    "robots.txt": "28bef078dfbd1efa9eec8406e8f404d76cb412ce3e45099693ca87f28ddcab58",
+    "83e639e9a6203b879ab07268008f12cd.txt": "4091c1c33c15e46eaec9064d5341ae8bb80bdc448bd1b8405b5983efc597177b"
+  },
+  "revision": "edeefde69d8b1f3fc9b7bada0a81109fa9998fc2e60470c3af2b298b2ad00417"
+}
